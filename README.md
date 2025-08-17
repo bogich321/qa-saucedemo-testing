@@ -1,12 +1,15 @@
-qa-saucedemo-testing/
-│── README.md
-│── test-plan.md
-│── checklists/
-│    └── login-checklist.md
-│    └── cart-checklist.md
-│── test-cases/
-│    └── login-test-cases.md
-│    └── cart-test-cases.md
-│── bug-reports/
-│    └── bug-report-001.md
-│    └── bug-report-002.md
+# QA Project: SauceDemo Testing
+
+Учебный проект. 
+Приложение: [SauceDemo](https://www.saucedemo.com/)  
+
+## Содержимое репозитория
+- **Test Plan** — цели тестирования
+- **Checklists** — контрольные списки
+- **Test Cases** — тест-кейсы
+- **Bug Reports** — баг-репорты
+
+## Инструменты
+- Ручное тестирование
+- Браузер: Chrome
+- Формат: Markdown
